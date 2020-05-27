@@ -1,3 +1,4 @@
 ---
 collections:
 - fvzwieten.loginmsg
+  source: https://galaxy.ansible.com
